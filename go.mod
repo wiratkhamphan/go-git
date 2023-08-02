@@ -1,3 +1,3 @@
-module gitgub.com/wiratkhamphan
+module github.com/wiratkhamphan/go-git
 
 go 1.20
