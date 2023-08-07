@@ -15,7 +15,7 @@ func nwe(f int) int {
 
 func main() {
 	var a int
-	fmt.Print("num : ")
+	fmt.Print("test 1 ")
 	fmt.Scan(&a)
 	a = nwe(a)
 }
